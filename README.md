@@ -1,2 +1,3 @@
-# Power_Bi-_Dashboard_Project
-This is a Power BI mini project.
+# Power_Bi
+
+In this folder various types of visuals are created using power bi dashboard tool and also created one mini project.  
