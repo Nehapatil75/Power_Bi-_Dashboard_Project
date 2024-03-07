@@ -12,5 +12,5 @@ Overview:
 
 #Technologies Used:
 Power BI: Utilized for dashboard creation and visualization.
-Data Source: Netflix dataset used for analysis.
+Data Source: Netflix dataset used for analyysis.
 
